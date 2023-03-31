@@ -1,5 +1,6 @@
 -- Speed Hax
 -- Press Tab To Open
+-- Script by Lasiv (Fnm08)
 local screenGui = Instance.new("ScreenGui")
 local speedFrame = Instance.new("Frame")
 local speedLabel = Instance.new("TextLabel")
